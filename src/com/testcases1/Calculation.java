@@ -13,3 +13,5 @@ public class Calculation {
 	}
 	
 }
+publuc void(){
+	
